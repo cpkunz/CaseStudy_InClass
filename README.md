@@ -1,6 +1,6 @@
 # Case Study Venmo FINTech
 
-![Venmo](Venmo.png)
+![Venmo](Venmo.jpg)
 
 ## What is the background of your company? What do they do? Who are their competitors?
 
